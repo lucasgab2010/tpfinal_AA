@@ -1,6 +1,6 @@
-![]()
+![](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/logo.jpg)
 
-![]()
+![](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/escuela.jpg)
 
 
 Predecir la tasa de promocion efectiva escolar en TdF
@@ -129,9 +129,32 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
+```
+
+## Exploración de Datos
+- Análisis general del dataset.
+- Análisis descriptivo y estadístico.
+- Detección de valores nulos y duplicados.
+
+## Preprocesamiento
+- Conversión de fechas a un formato adecuado.
+- Codificación de variables categóricas.
+- Normalización o estandarización de precios.
+
+## Modelado
+- Definición del problema.
+- Selección de algoritmos apropiados.
+- Entrenamiento y validación del modelo.
+
+## Evaluación
+- Métricas de desempeño como MSE y R².
+- Interpretación de resultados y conclusiones.
+
+## Conclusión
+Este proyecto tiene el potencial de impactar significativamente la política educativa en Tierra del Fuego, proporcionando una comprensión profunda de los factores que afectan la continuidad educativa y permitiendo la creación de estrategias más efectivas para mejorar las tasas de promoción, repitencia y abandono escolar.
 
 
-
+==============================
 
 
 Project Organization
