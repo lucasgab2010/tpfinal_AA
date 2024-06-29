@@ -3,23 +3,12 @@
 ![](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/escuela.jpg)
 
 
-Predecir la tasa de promocion efectiva escolar en TdF
-
-
-
-
-==============================
-
-Predecir la tasa de promocion escolar en TdF
-
-
-
 # Trabajo Práctico de Aprendizaje Automático
 
 ## Analizar y Predecir las Tasas de Promoción Efectiva, Repitencia y Abandono Escolar en las Escuelas de Tierra del Fuego
-## Profesor
+### Profesor
 **Martín Mirabete**
-## Alumno
+### Alumno
 **Gabriel García**
 
 ---
@@ -94,7 +83,7 @@ La educación es un pilar fundamental para el desarrollo económico y social de 
 
 ## Relevancia del Proyecto
 
-El análisis y la predicción de las tasas de promoción efectiva, repitencia y abandono escolar en Tierra del Fuego no solo contribuirán a la comprensión de estos fenómenos, sino que también proporcionarán una base sólida para la toma de decisiones informadas. Al identificar los factores que afectan negativamente la continuidad educativa, se pueden diseñar políticas y programas que apoyen mejor a los estudiantes y mejoren los resultados educativos a nivel nacional.
+El análisis y la predicción de las tasas de promoción efectiva, repitencia y abandono escolar en Tierra del Fuego no solo contribuirán a la comprensión de estos fenómenos, sino que también proporcionarán una base sólida para la toma de decisiones informadas. Al identificar los factores que afectan negativamente la continuidad educativa, se pueden diseñar políticas y programas que apoyen mejor a los estudiantes y mejoren los resultados educativos a nivel provincial.
 
 ---
 
@@ -153,6 +142,10 @@ from sklearn.metrics import mean_squared_error, r2_score
 ## Conclusión
 Este proyecto tiene el potencial de impactar significativamente la política educativa en Tierra del Fuego, proporcionando una comprensión profunda de los factores que afectan la continuidad educativa y permitiendo la creación de estrategias más efectivas para mejorar las tasas de promoción, repitencia y abandono escolar.
 
+---
+
+### Licencia
+### Este proyecto está licenciado bajo MIT License.
 
 ==============================
 
