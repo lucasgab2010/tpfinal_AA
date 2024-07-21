@@ -11,6 +11,13 @@
 ### Alumno
 **Gabriel García**
 
+## Video
+[![Vista Previa del Video](https://i.imgur.com/ejemplo.png)](https://drive.google.com/file/d/1A63zm3anZTns6dX2gjZ92P5uLL6XCajW/view?usp=sharing)
+
+## Presentación
+
+[Haz clic aquí para ver la presentación](https://docs.google.com/presentation/d/1yQOuUfuDL5Rtm-d7KUYTR_PzFKC2QpyJSiHnglHW4_0/pub?start=false&loop=false&delayms=3000)
+
 ---
 ## Prediction and Improvement of Educational Results in Schools in Tierra del Fuego
 
