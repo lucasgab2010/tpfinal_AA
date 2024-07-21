@@ -11,7 +11,31 @@
 ### Alumno
 **Gabriel García**
 
+## Video
+[![Vista Previa del Video](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/clases.jpg)](https://drive.google.com/file/d/1A63zm3anZTns6dX2gjZ92P5uLL6XCajW/view?usp=sharing)
+
+## Presentación
+
+[Haz clic aquí para ver la presentación](https://docs.google.com/presentation/d/1yQOuUfuDL5Rtm-d7KUYTR_PzFKC2QpyJSiHnglHW4_0/pub?start=false&loop=false&delayms=3000)
+
 ---
+## Prediction and Improvement of Educational Results in Schools in Tierra del Fuego
+
+## Abstract:
+
+This study aims to analyze and predict promotion rates, repetition, and school 
+dropout in Tierra del Fuego schools. It identifies factors influencing these
+indicators to improve policies. Data on socioeconomic factors, school
+characteristics, and contextual elements are collected, cleaned, normalized, and
+used to build predictive models. Specifically, a linear regression model is
+employed to forecast non-promotion rates in secondary schools. Models are
+validated with high accuracy using separate test sets. Evaluation metrics like
+MSE, RMSE, MAE, and R2 gauge model performance. Recommendations
+include personalized tutoring, enhanced teacher training, and community
+engagement to support at-risk students. Additional resources for lower
+socioeconomic schools are advised. These interventions aim to boost promotion
+rates, lower repetition, and dropout rates, optimizing educational outcomes in
+Tierra del Fuego for a more equitable and effective system.
 
 ## Descripción y Formulación del Objetivo
 
