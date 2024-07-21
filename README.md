@@ -12,7 +12,7 @@
 **Gabriel García**
 
 ## Video
-[![Vista Previa del Video](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/escuela.jpg)](https://drive.google.com/file/d/1A63zm3anZTns6dX2gjZ92P5uLL6XCajW/view?usp=sharing)
+[![Vista Previa del Video](https://github.com/lucasgab2010/tpfinal_AA/blob/main/docs/clases.jpg)](https://drive.google.com/file/d/1A63zm3anZTns6dX2gjZ92P5uLL6XCajW/view?usp=sharing)
 
 ## Presentación
 
